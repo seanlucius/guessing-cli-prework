@@ -11,5 +11,5 @@ def run_guessing_game
     end
     break
   end 
-  "Goodbye!"
+  puts "Goodbye!"
 end 
